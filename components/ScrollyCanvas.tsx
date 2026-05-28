@@ -30,7 +30,7 @@ export default function ScrollyCanvas({ frameCount }: ScrollyCanvasProps) {
       const img = new Image();
       // Adjust path based on how files are named: frame_000_delay-0.071s.png
       const frameNum = i.toString().padStart(3, "0");
-      img.src = `/sequence/frame_${frameNum}_delay-0.071s.png`;
+      img.src = `/sequence/frame_${frameNum}_delay-0.071s.webp`;
       
       img.onload = () => {
         loadedCount++;

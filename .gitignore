@@ -28,6 +28,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# Large sequence assets (Temporarily ignored to allow Git commands and pushes to succeed. Remove or optimize files before pushing sequence.)
-/public/sequence
 
