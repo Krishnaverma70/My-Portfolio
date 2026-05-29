@@ -6,13 +6,13 @@ const experiences = [
   {
     id: 1,
     title: "Graphics Designing",
-    duration: "3+ Years",
+    duration: "1 Year",
     description: "Creating high-end visual identities, marketing materials, and digital assets with a focus on modern aesthetics.",
   },
   {
     id: 2,
     title: "Video Editing",
-    duration: "2+ Years",
+    duration: "1 Year",
     description: "Crafting engaging narratives through motion graphics, cinematic cuts, and seamless post-production workflows.",
   },
   {
