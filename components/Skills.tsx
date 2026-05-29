@@ -30,7 +30,7 @@ export default function Skills() {
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.6 }}
-            className="p-8 rounded-2xl bg-zinc-900/40 backdrop-blur-sm border border-zinc-800/80 hover:border-amber-500/30 hover:bg-zinc-900/60 transition-all duration-350 shadow-2xl shadow-black/50"
+            className="p-6 sm:p-8 rounded-2xl bg-zinc-900/40 backdrop-blur-sm border border-zinc-800/80 hover:border-amber-500/30 hover:bg-zinc-900/60 transition-all duration-350 shadow-2xl shadow-black/50"
           >
             <div className="flex items-center gap-3 mb-8">
               <div className="p-3 bg-amber-500/10 rounded-xl border border-amber-500/20">
@@ -56,7 +56,7 @@ export default function Skills() {
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.6, delay: 0.2 }}
-            className="p-8 rounded-2xl bg-zinc-900/40 backdrop-blur-sm border border-zinc-800/80 hover:border-amber-500/30 hover:bg-zinc-900/60 transition-all duration-350 shadow-2xl shadow-black/50"
+            className="p-6 sm:p-8 rounded-2xl bg-zinc-900/40 backdrop-blur-sm border border-zinc-800/80 hover:border-amber-500/30 hover:bg-zinc-900/60 transition-all duration-350 shadow-2xl shadow-black/50"
           >
             <div className="flex items-center gap-3 mb-8">
               <div className="p-3 bg-orange-500/10 rounded-xl border border-orange-500/20">

@@ -35,7 +35,7 @@ export default function Contact() {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.6, delay: 0.1 }}
-            className="group flex flex-col items-center p-8 rounded-2xl bg-zinc-900/40 backdrop-blur-sm border border-zinc-800/80 hover:border-amber-500/30 hover:bg-amber-500/5 hover:shadow-[0_0_30px_rgba(245,158,11,0.05)] transition-all duration-350 shadow-xl"
+            className="group flex flex-col items-center p-6 sm:p-8 rounded-2xl bg-zinc-900/40 backdrop-blur-sm border border-zinc-800/80 hover:border-amber-500/30 hover:bg-amber-500/5 hover:shadow-[0_0_30px_rgba(245,158,11,0.05)] transition-all duration-350 shadow-xl"
           >
             <div className="p-4 bg-zinc-950 rounded-full border border-zinc-800 group-hover:border-amber-500/30 mb-4 transition-all duration-300">
               <MessageCircle className="w-8 h-8 text-amber-400 group-hover:scale-110 transition-transform duration-300" />
@@ -51,7 +51,7 @@ export default function Contact() {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.6, delay: 0.2 }}
-            className="group flex flex-col items-center p-8 rounded-2xl bg-zinc-900/40 backdrop-blur-sm border border-zinc-800/80 hover:border-orange-500/30 hover:bg-orange-500/5 hover:shadow-[0_0_30px_rgba(249,115,22,0.05)] transition-all duration-350 shadow-xl"
+            className="group flex flex-col items-center p-6 sm:p-8 rounded-2xl bg-zinc-900/40 backdrop-blur-sm border border-zinc-800/80 hover:border-orange-500/30 hover:bg-orange-500/5 hover:shadow-[0_0_30px_rgba(249,115,22,0.05)] transition-all duration-350 shadow-xl"
           >
             <div className="p-4 bg-zinc-950 rounded-full border border-zinc-800 group-hover:border-orange-500/30 mb-4 transition-all duration-300">
               <Mail className="w-8 h-8 text-orange-400 group-hover:scale-110 transition-transform duration-300" />
@@ -69,7 +69,7 @@ export default function Contact() {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.6, delay: 0.3 }}
-            className="group flex flex-col items-center p-8 rounded-2xl bg-zinc-900/40 backdrop-blur-sm border border-zinc-800/80 hover:border-yellow-500/30 hover:bg-yellow-500/5 hover:shadow-[0_0_30px_rgba(234,179,8,0.05)] transition-all duration-350 shadow-xl"
+            className="group flex flex-col items-center p-6 sm:p-8 rounded-2xl bg-zinc-900/40 backdrop-blur-sm border border-zinc-800/80 hover:border-yellow-500/30 hover:bg-yellow-500/5 hover:shadow-[0_0_30px_rgba(234,179,8,0.05)] transition-all duration-350 shadow-xl"
           >
             <div className="p-4 bg-zinc-950 rounded-full border border-zinc-800 group-hover:border-yellow-500/30 mb-4 transition-all duration-300">
               <Instagram className="w-8 h-8 text-yellow-400 group-hover:scale-110 transition-transform duration-300" />
@@ -87,7 +87,7 @@ export default function Contact() {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.6, delay: 0.4 }}
-            className="group flex flex-col items-center p-8 rounded-2xl bg-zinc-900/40 backdrop-blur-sm border border-zinc-800/80 hover:border-amber-600/30 hover:bg-amber-600/5 hover:shadow-[0_0_30px_rgba(217,119,6,0.05)] transition-all duration-350 shadow-xl"
+            className="group flex flex-col items-center p-6 sm:p-8 rounded-2xl bg-zinc-900/40 backdrop-blur-sm border border-zinc-800/80 hover:border-amber-600/30 hover:bg-amber-600/5 hover:shadow-[0_0_30px_rgba(217,119,6,0.05)] transition-all duration-350 shadow-xl"
           >
             <div className="p-4 bg-zinc-950 rounded-full border border-zinc-800 group-hover:border-amber-600/30 mb-4 transition-all duration-300">
               <Linkedin className="w-8 h-8 text-amber-500 group-hover:scale-110 transition-transform duration-300" />

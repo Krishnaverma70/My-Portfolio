@@ -63,7 +63,7 @@ export default function Experience() {
               </div>
 
               {/* Card Container */}
-              <div className="p-8 rounded-2xl bg-zinc-900/40 backdrop-blur-sm border border-zinc-800/80 hover:border-amber-500/20 hover:bg-zinc-900/60 transition-all duration-350 shadow-2xl shadow-black/50">
+              <div className="p-6 sm:p-8 rounded-2xl bg-zinc-900/40 backdrop-blur-sm border border-zinc-800/80 hover:border-amber-500/20 hover:bg-zinc-900/60 transition-all duration-350 shadow-2xl shadow-black/50">
                 <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-4">
                   <h3 className="text-2xl font-bold text-white group-hover:text-amber-400 transition-colors">
                     {exp.title}
